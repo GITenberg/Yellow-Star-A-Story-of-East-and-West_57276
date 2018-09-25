@@ -1,0 +1,31 @@
+_repo: Yellow-Star-A-Story-of-East-and-West_57276
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dietz, William Henry
+    gutenberg_agent_id: '49290'
+    url: http://www.gutenberg.org/2009/agents/49290
+  - agent_name: Cora, Angel de
+    gutenberg_agent_id: '49289'
+    url: http://www.gutenberg.org/2009/agents/49289
+creator:
+  author:
+    agent_name: Eastman, Elaine Goodale
+    alias: Goodale, Elaine
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '33138'
+    url: http://www.gutenberg.org/2009/agents/33138
+description: ''
+gutenberg_issued: '2018-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yellow Star: A Story of East and West'
+url: http://www.gutenberg.org/ebooks/57276
